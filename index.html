@@ -1,2 +1,43 @@
-<h1>My Github Webiste</h1>
-<h2>Yep it's pretty terrible right now</h2>
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, maximum-scale=1">
+        <title>Subjective PHP</title>
+
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/css/bootstrap.min.css" integrity="sha384-AysaV+vQoT3kOAXZkl02PThvDr8HYKPZhNT5h/CXfBThSRXQ6jW5DO2ekP5ViFdi" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.5/js/bootstrap.min.js" integrity="sha384-BLiI7JTZm+JWlgKa0M0kGRpJbF2J8q+qreVrKBC47e3K6BW78kGLrCkeRX6I9RoK" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+                <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" role="listbox">
+                <div class="carousel-item active">
+                    <code><span style="color: #000000">
+                        <span style="color: #0000BB">&lt;?php
+                        <br /><br />$string&nbsp;</span><span style="color: #007700">=&nbsp;</span><span style="color: #DD0000">'foo|bar'</span><span style="color: #007700">;<br /><br />list(</span><span style="color: #0000BB">$a</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$b</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$c</span><span style="color: #007700">)&nbsp;=&nbsp;</span><span style="color: #0000BB">explode</span><span style="color: #007700">(</span><span style="color: #DD0000">'|'</span><span style="color: #007700">,&nbsp;</span><span style="color: #0000BB">$string</span><span style="color: #007700">)&nbsp;+&nbsp;[</span><span style="color: #0000BB">2&nbsp;</span><span style="color: #007700">=&gt;&nbsp;</span><span style="color: #0000BB">null</span><span style="color: #007700">];<br /></span>
+</span>
+</code>
+                </div>
+                <div class="carousel-item">
+                    <h2>Second slide</h2>
+                </div>
+                <div class="carousel-item">
+                    <h2>Third slide</h2>
+                </div>
+            </div>
+            <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+                <span class="icon-prev" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+                <span class="icon-next" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </body>
+</html>
