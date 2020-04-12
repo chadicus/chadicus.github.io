@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Pragmatic software engineer with 15 years experience in the IT field."
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,9 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-
-Pragmatic software engineer with 10 years experience in the IT field. 
 
 Education
 ======
