@@ -1,6 +1,6 @@
 Joe cursed himself for not driving. His wife was on her third loop around the county fair parking area, looking for that one spot that was ten feet closer to the entrance than the four others they had just passed.  He let out a louder than necessary breath, which meant, park the damn car.
 
-    After parking, Joe got out and opened the backdoor of the SUV to free his excited son, James,  who had now changed from yelling that he was hungry to “flarris wheel, flarris wheel!”  
+After parking, Joe got out and opened the backdoor of the SUV to free his excited son, James,  who had now changed from yelling that he was hungry to “flarris wheel, flarris wheel!”  
 
 Joe laughed to himself. Two minutes ago he would have paid money to be back home doing much needed yard work.  But now, after seeing the genuine excitement in his young son’s eyes, he calmly said, “Yes, you can ride the Ferris wheel.”
 
