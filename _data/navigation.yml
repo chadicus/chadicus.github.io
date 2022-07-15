@@ -2,3 +2,6 @@
 main:
   - title: "Various Writings"
     url: /year-archive/
+
+  - title: "Resume"
+    url: /cv/

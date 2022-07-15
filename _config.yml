@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chad"
+title                    : "Chad Gray"
 title_separator          : "-"
-name                     : &name "Chad"
+name                     : &name "Chad Gray"
 description              : &description "PHP developer. Avid comic collector. Wanna be writer."
 url                      : https://chadicus.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
